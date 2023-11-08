@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ciência da Computação
-nav_order: 2
+title: Disciplinas
+nav_order: 1
 has_children: true
 ---
