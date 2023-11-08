@@ -4,8 +4,8 @@ title: Início
 nav_exclude: true
 permalink: /:path/
 seo:
-  type: Teste
-  name: TESTE2
+  type: Plataforma
+  name: Organizador do IF
 ---
 
 # Just the Class
