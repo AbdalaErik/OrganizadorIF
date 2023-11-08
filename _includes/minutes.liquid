@@ -11,41 +11,41 @@
 
   {% if _time == '9:00' %}
     {% assign _time = '9:00' AM' %}
-  {% if _time == '9:30' %}
+  {% elsif _time == '9:30' %}
     {% assign _time = '9:30 AM' %}
-  {% if _time == '10:00' %}
+  {% elsif _time == '10:00' %}
     {% assign _time = '10:00 AM' %}
-  {% if _time == '10:30'%}
+  {% elsif _time == '10:30'%}
     {% assign _time = '10:30 AM' %}
-  {% if _time == '11:00' %}
+  {% elsif _time == '11:00' %}
     {% assign _time = '11:00 AM' %}
-  {% if _time == '11:30' %}
+  {% elsif _time == '11:30' %}
     {% assign _time = '11:30 AM' %}
-  {% if _time == '12:00' %}
+  {% elsif _time == '12:00' %}
     {% assign _time = '12:00 PM' %}
-  {% if _time == '12:30' %}
+  {% elsif _time == '12:30' %}
     {% assign _time = '12:30 PM' %}
-  {% if _time == '13:00' %}
+  {% elsif _time == '13:00' %}
     {% assign _time = '13:00 PM' %}
-  {% if _time == '13:30' %}
+  {% elsif _time == '13:30' %}
     {% assign _time = '13:30 PM' %}
-  {% if _time == '14:00' %}
+  {% elsif _time == '14:00' %}
     {% assign _time = '14:00 PM' %}
-  {% if _time == '14:30' %}
+  {% elsif _time == '14:30' %}
     {% assign _time = '14:30 PM' %}
-  {% if _time == '15:00' %}
+  {% elsif _time == '15:00' %}
     {% assign _time = '15:00 PM' %}
-  {% if _time == '15:30' %}
+  {% elsif _time == '15:30' %}
     {% assign _time = '15:30 PM' %}
-  {% if _time == '16:00' %}
+  {% elsif _time == '16:00' %}
     {% assign _time = '16:00 PM' %}
-  {% if _time == '16:30' %}
+  {% elsif _time == '16:30' %}
     {% assign _time = '16:30 PM' %}
-  {% if _time == '17:00' %}
+  {% elsif _time == '17:00' %}
     {% assign _time = '17:00 PM' %}
-  {% if _time == '17:30' %}
+  {% elsif _time == '17:30' %}
     {% assign _time = '17:30 PM' %}
-
+  {% endif %}
 
   {% assign _hhmm = _time | split: ' ' | first | split: ':' %}
   {% assign _hours = _hhmm | first | to_integer %}
