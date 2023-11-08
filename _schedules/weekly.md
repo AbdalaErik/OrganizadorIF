@@ -16,19 +16,21 @@ timeline:
 schedule:
   - name: Segunda
     events:
-      - name: Disciplina1
+      - name: Engenharia de Software I
         start: 7:00 PM
         end: 11:00 PM
-        location: 150 Wheeler
         inicio: '19:00'
         fim: '23:00'
+        tipo: disciplina1
   - name: Terça
   - name: Quarta
     events:
-      - name: Engenharia de Software
+      - name: Linguagens de Programação II
         start: 7:00 PM
         end: 8:00 PM
-        location: 150 Wheeler
+        inicio: '19:00'
+        fim: '20:00'
+        tipo: disciplina2
   - name: Quinta
   - name: Sexta
     events:
