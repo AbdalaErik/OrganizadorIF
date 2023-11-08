@@ -43,13 +43,13 @@ schedule:
         tipo: disciplina1
   - name: Terça
     events:
-      - name: Teste1
+      - name: Arquitetura e Organização de Computadores
         start: 7:00 PM
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
         tipo: disciplina2
-      - name: Teste1
+      - name: Arquitetura e Organização de Computadores
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
@@ -69,17 +69,68 @@ schedule:
         tipo: disciplina3
   - name: Quarta
     events:
-      - name: Linguagens de Programação II
+      - name: Arquitetura e Organização de Computadores
         start: 7:00 PM
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
         tipo: disciplina2
+      - name: Arquitetura e Organização de Computadores
+        start: 8:00 PM
+        end: 9:00 PM
+        inicio: '20:00'
+        fim: '21:00'
+        tipo: disciplina2
+      - name: Linguagens de Programação II
+        start: 9:00 PM
+        end: 10:00 PM
+        inicio: '21:00'
+        fim: '22:00'
+        tipo: disciplina3
+      - name: Linguagens de Programação II
+        start: 10:00 PM
+        end: 11:00 PM
+        inicio: '22:00'
+        fim: '23:00'
+        tipo: disciplina3
   - name: Quinta
+    events:
+      - name: Teoria dos Grafos
+        start: 7:30 PM
+        end: 8:30 PM
+        inicio: '19:30'
+        fim: '20:30'
+        tipo: disciplina4
+      - name: Teoria dos Grafos
+        start: 8:30 PM
+        end: 9:30 PM
+        inicio: '20:30'
+        fim: '21:30'
+        tipo: disciplina4
+      - name: Teoria dos Grafos
+        start: 9:30 PM
+        end: 10:30 PM
+        inicio: '21:30'
+        fim: '22:30'
+        tipo: disciplina4
   - name: Sexta
     events:
-      - name: Lecture
-        start: 7:00 PM
-        end: 8:00 PM
-        location: 150 Wheeler
+      - name: Banco de Dados I
+        start: 7:30 PM
+        end: 8:30 PM
+        inicio: '19:30'
+        fim: '20:30'
+        tipo: disciplina5
+      - name: Banco de Dados I
+        start: 8:30 PM
+        end: 9:30 PM
+        inicio: '20:30'
+        fim: '21:30'
+        tipo: disciplina5
+      - name: Banco de Dados I
+        start: 9:30 PM
+        end: 10:30 PM
+        inicio: '21:30'
+        fim: '22:30'
+        tipo: disciplina5
 ---
