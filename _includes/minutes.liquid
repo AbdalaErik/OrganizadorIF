@@ -7,8 +7,6 @@
 
   {% endcomment %}
 
-  {% assign _time = include.time %}
-
   {% if _time == '9:00' %}
     {% assign _time = '9:00 AM' %}
   {% elsif _time == '9:30' %}
@@ -47,6 +45,7 @@
     {% assign _time = '17:30 PM' %}
   {% endif %}
 
+  {% assign _time = include.time %}
   {% assign _hhmm = _time | split: ' ' | first | split: ':' %}
   {% assign _hours = _hhmm | first | to_integer %}
   {% assign _minutes = _hhmm | last | to_integer %}
