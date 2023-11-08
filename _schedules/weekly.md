@@ -31,7 +31,7 @@ schedule:
         location: 310 Soda
       - name: Office Hours
         start: 12:30 PM
-        end: 14:00 PM
+        end: 2:00 PM
         location: 271 Soda
   - name: Terça
   - name: Quarta
@@ -46,7 +46,7 @@ schedule:
         location: 310 Soda
       - name: Office Hours
         start: 12:30 PM
-        end: 14:00 PM
+        end: 2:00 PM
         location: 271 Soda
   - name: Quinta
   - name: Sexta
@@ -61,6 +61,6 @@ schedule:
         location: 310 Soda
       - name: Office Hours
         start: 12:30 PM
-        end: 14:00 PM
+        end: 2:00 PM
         location: 271 Soda
 ---
