@@ -4,48 +4,46 @@
 
     Parameters:
       `time` (string): the time to convert.
-
+      {% assign _time = include.time %}
   {% endcomment %}
 
-  {% if time == '9:00' %}
-    {% assign time = '9:00 AM' %}
-  {% elsif time == '9:30' %}
-    {% assign time = '9:30 AM' %}
-  {% elsif time == '10:00' %}
-    {% assign time = '10:00 AM' %}
+  {% if include.time == '9:00' %}
+    {% assign _time = '9:00 AM' %}
+  {% elsif include.time == '9:30' %}
+    {% assign _time = '9:30 AM' %}
+  {% elsif include.time == '10:00' %}
+    {% assign _time = '10:00 AM' %}
   {% elsif time == '10:30'%}
-    {% assign time = '10:30 AM' %}
-  {% elsif time == '11:00' %}
-    {% assign time = '11:00 AM' %}
-  {% elsif time == '11:30' %}
-    {% assign time = '11:30 AM' %}
-  {% elsif time == '12:00' %}
-    {% assign time = '12:00 PM' %}
-  {% elsif time == '12:30' %}
-    {% assign time = '12:30 PM' %}
-  {% elsif time == '13:00' %}
-    {% assign time = '13:00 PM' %}
-  {% elsif time == '13:30' %}
-    {% assign time = '13:30 PM' %}
-  {% elsif time == '14:00' %}
-    {% assign time = '14:00 PM' %}
-  {% elsif time == '14:30' %}
-    {% assign time = '14:30 PM' %}
-  {% elsif time == '15:00' %}
-    {% assign time = '15:00 PM' %}
-  {% elsif time == '15:30' %}
-    {% assign time = '15:30 PM' %}
-  {% elsif time == '16:00' %}
-    {% assign time = '16:00 PM' %}
-  {% elsif time == '16:30' %}
-    {% assign time = '16:30 PM' %}
-  {% elsif time == '17:00' %}
-    {% assign time = '17:00 PM' %}
-  {% elsif time == '17:30' %}
-    {% assign time = '17:30 PM' %}
+    {% assign _time = '10:30 AM' %}
+  {% elsif include.time == '11:00' %}
+    {% assign _time = '11:00 AM' %}
+  {% elsif include.time == '11:30' %}
+    {% assign _time = '11:30 AM' %}
+  {% elsif include.time == '12:00' %}
+    {% assign _time = '12:00 PM' %}
+  {% elsif include.time == '12:30' %}
+    {% assign _time = '12:30 PM' %}
+  {% elsif include.time == '13:00' %}
+    {% assign _time = '13:00 PM' %}
+  {% elsif include.time == '13:30' %}
+    {% assign _time = '13:30 PM' %}
+  {% elsif include.time == '14:00' %}
+    {% assign _time = '14:00 PM' %}
+  {% elsif include.time == '14:30' %}
+    {% assign _time = '14:30 PM' %}
+  {% elsif include.time == '15:00' %}
+    {% assign _time = '15:00 PM' %}
+  {% elsif include.time == '15:30' %}
+    {% assign _time = '15:30 PM' %}
+  {% elsif include.time == '16:00' %}
+    {% assign _time = '16:00 PM' %}
+  {% elsif include.time == '16:30' %}
+    {% assign _time = '16:30 PM' %}
+  {% elsif include.time == '17:00' %}
+    {% assign _time = '17:00 PM' %}
+  {% elsif include.time == '17:30' %}
+    {% assign _time = '17:30 PM' %}
   {% endif %}
-
-  {% assign _time = include.time %}
   {% assign _hhmm = _time | split: ' ' | first | split: ':' %}
   {% assign _hours = _hhmm | first | to_integer %}
   {% assign _minutes = _hhmm | last | to_integer %}
