@@ -18,8 +18,26 @@ schedule:
     events:
       - name: Engenharia de Software I
         start: 7:00 PM
-        end: 11:00 PM
+        end: 8:00 PM
         inicio: '19:00'
+        fim: '20:00'
+        tipo: disciplina1
+      - name: Engenharia de Software I
+        start: 8:00 PM
+        end: 9:00 PM
+        inicio: '20:00'
+        fim: '21:00'
+        tipo: disciplina1
+      - name: Engenharia de Software I
+        start: 9:00 PM
+        end: 10:00 PM
+        inicio: '21:00'
+        fim: '22:00'
+        tipo: disciplina1
+      - name: Engenharia de Software I
+        start: 10:00 PM
+        end: 11:00 PM
+        inicio: '22:00'
         fim: '23:00'
         tipo: disciplina1
   - name: Terça
