@@ -4,7 +4,7 @@ title: Horários
 description: The weekly event schedule.
 ---
 
-# Weekly Schedule
+<p align="center"># Horários</p>>
 
 {% for schedule in site.schedules %}
 {{ schedule }}
