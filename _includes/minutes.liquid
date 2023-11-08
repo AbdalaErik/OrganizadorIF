@@ -4,46 +4,10 @@
 
     Parameters:
       `time` (string): the time to convert.
-      {% assign _time = include.time %}
+
   {% endcomment %}
 
-  {% if include.time == '9:00' %}
-    {% assign _time = '9:00 AM' %}
-  {% elsif include.time == '9:30' %}
-    {% assign _time = '9:30 AM' %}
-  {% elsif include.time == '10:00' %}
-    {% assign _time = '10:00 AM' %}
-  {% elsif include.time == '10:30'%}
-    {% assign _time = '10:30 AM' %}
-  {% elsif include.time == '11:00' %}
-    {% assign _time = '11:00 AM' %}
-  {% elsif include.time == '11:30' %}
-    {% assign _time = '11:30 AM' %}
-  {% elsif include.time == '12:00' %}
-    {% assign _time = '12:00 PM' %}
-  {% elsif include.time == '12:30' %}
-    {% assign _time = '12:30 PM' %}
-  {% elsif include.time == '13:00' %}
-    {% assign _time = '1:00 PM' %}
-  {% elsif include.time == '13:30' %}
-    {% assign _time = '1:30 PM' %}
-  {% elsif include.time == '14:00' %}
-    {% assign _time = '2:00 PM' %}
-  {% elsif include.time == '14:30' %}
-    {% assign _time = '2:30 PM' %}
-  {% elsif include.time == '15:00' %}
-    {% assign _time = '3:00 PM' %}
-  {% elsif include.time == '15:30' %}
-    {% assign _time = '3:30 PM' %}
-  {% elsif include.time == '16:00' %}
-    {% assign _time = '4:00 PM' %}
-  {% elsif include.time == '16:30' %}
-    {% assign _time = '4:30 PM' %}
-  {% elsif include.time == '17:00' %}
-    {% assign _time = '5:00 PM' %}
-  {% elsif include.time == '17:30' %}
-    {% assign _time = '5:30 PM' %}
-  {% endif %}
+  {% assign _time = include.time %}
   {% assign _hhmm = _time | split: ' ' | first | split: ':' %}
   {% assign _hours = _hhmm | first | to_integer %}
   {% assign _minutes = _hhmm | last | to_integer %}
@@ -54,4 +18,5 @@
   {% elsif _ampm == 'PM' and _hours != 12 %}
     {% assign _hours = _hours | plus: 12 %}
   {% endif %}
+
 {% endcapture %}{% assign _minutes_workspace = '' %}{{ _hours | times: 60 | plus: _minutes }}
