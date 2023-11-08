@@ -14,6 +14,7 @@ timeline:
   - '23:30'
   - '00:00'
 schedule:
+  - name: Horários
   - name: Segunda
     events:
       - name: Engenharia de Software I
