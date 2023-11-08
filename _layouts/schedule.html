@@ -3,7 +3,7 @@
 <div class="schedule">
   <ul class="schedule-timeline" style="min-width: {{ page.schedule | size | times: 120 }}px">
     {% for time in page.timeline %}
-    <li class="schedule-time">{{ time }} </li>
+    <li class="schedule-time" align = "center">{{ time }} </li>
     {% endfor %}
   </ul>
   <ul class="schedule-group">
