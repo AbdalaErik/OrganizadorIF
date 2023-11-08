@@ -16,20 +16,20 @@ schedule:
     events:
       - name: Lecture
         start: 7:00 PM
-        end: 9:00 PM
+        end: 8:00 PM
         location: 150 Wheeler
   - name: Terça
   - name: Quarta
     events:
       - name: Lecture
         start: 7:00 PM
-        end: 9:00 PM
+        end: 8:00 PM
         location: 150 Wheeler
   - name: Quinta
   - name: Sexta
     events:
       - name: Lecture
         start: 7:00 PM
-        end: 9:00 PM
+        end: 8:00 PM
         location: 150 Wheeler
 ---
