@@ -16,7 +16,7 @@ timeline:
 schedule:
   - name: Segunda
     events:
-      - name: Lecture
+      - name: Disciplina1
         start: 7:00 PM
         end: 11:00 PM
         location: 150 Wheeler
@@ -25,7 +25,7 @@ schedule:
   - name: Terça
   - name: Quarta
     events:
-      - name: Lecture
+      - name: Engenharia de Software
         start: 7:00 PM
         end: 8:00 PM
         location: 150 Wheeler
