@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: Horários
 description: The weekly event schedule.
 ---
 
