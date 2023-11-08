@@ -24,8 +24,8 @@
     @extend .fs-2;
     color: $grey-dk-000;
     height: 40px;
-    margin: 0;
-    padding: $sp-3;
+    margin: 10px;
+    padding: $sp-2;
     position: relative;
 
     &::after {
