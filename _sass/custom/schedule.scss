@@ -15,7 +15,7 @@
   }
 
   ul.schedule-timeline {
-    margin: 120px auto 0;
+    margin: 40px auto 0;
     position: absolute;
     width: 100%;
   }
@@ -25,7 +25,7 @@
     color: $grey-dk-000;
     height: 40px;
     margin: 0;
-    padding: $sp-2;
+    padding: $sp-5;
     position: relative;
 
     &::after {
