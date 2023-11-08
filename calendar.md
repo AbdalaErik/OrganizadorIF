@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Calendar
-description: Listing of course modules and topics.
+title: Agenda
+description: Listando as próximas provas e exercícios/atividades avaliativas.
 ---
 
 # Calendar
