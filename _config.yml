@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: OrganizadorIF
-tagline: O organizador de estudos do IF
-description: A modern, highly customizable, responsive Jekyll template for course websites
+tagline: Teste
+description: Teste2
 author: Kevin Lin
 baseurl: '/OrganizadorIF' # the subpath of your site, e.g. /blog
 url: 'https://abdalaerik.github.io' # the base hostname & protocol for your site, e.g. http://example.com
