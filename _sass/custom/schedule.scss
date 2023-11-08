@@ -93,18 +93,6 @@
       @extend .fs-2;
     }
 
-    &.lecture {
-      background-color: $grey-dk-000;
-    }
-
-    &.section {
-      background-color: $purple-000;
-    }
-
-    &.office-hours {
-      background-color: $blue-000;
-    }
-
     &.disciplina1 {
       background-color: $green-000;
     }
@@ -122,7 +110,7 @@
     }
 
     &.disciplina5 {
-      background-color: $yellow-000;
+      background-color: $grey-dk-000;
     }
   }
 }
