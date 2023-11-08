@@ -42,6 +42,7 @@ schedule:
         fim: '23:00'
         tipo: disciplina1
   - name: Terça
+    events:
       - name: Teste1
         start: 7:00 PM
         end: 8:00 PM
