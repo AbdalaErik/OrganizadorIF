@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Staff
-description: A listing of all the course staff members.
+title: Membros
+description: Uma lista de todos os membros relacionados ao curso.
 ---
 
-# Staff
+<h1 align="center"> <span style='font-weight: bold;'> Membros </span> </h1>
 
 Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
 
