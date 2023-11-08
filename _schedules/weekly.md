@@ -43,13 +43,13 @@ schedule:
         tipo: disciplina1
   - name: Terça
     events:
-      - name: Arquitetura e Organização de Computadores
+      - name: Arquitetura e Org. de Computadores
         start: 7:00 PM
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
         tipo: disciplina2
-      - name: Arquitetura e Organização de Computadores
+      - name: Arquitetura e Org. de Computadores
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
@@ -69,13 +69,13 @@ schedule:
         tipo: disciplina3
   - name: Quarta
     events:
-      - name: Arquitetura e Organização de Computadores
+      - name: Arquitetura e Org. de Computadores
         start: 7:00 PM
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
         tipo: disciplina2
-      - name: Arquitetura e Organização de Computadores
+      - name: Arquitetura e Org. de Computadores
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
@@ -116,21 +116,21 @@ schedule:
   - name: Sexta
     events:
       - name: Banco de Dados I
-        start: 7:30 PM
-        end: 8:30 PM
-        inicio: '19:30'
-        fim: '20:30'
+        start: 7:00 PM
+        end: 8:00 PM
+        inicio: '19:00'
+        fim: '20:00'
         tipo: disciplina5
       - name: Banco de Dados I
-        start: 8:30 PM
-        end: 9:30 PM
-        inicio: '20:30'
-        fim: '21:30'
+        start: 8:00 PM
+        end: 9:00 PM
+        inicio: '20:00'
+        fim: '21:00'
         tipo: disciplina5
       - name: Banco de Dados I
-        start: 9:30 PM
-        end: 10:30 PM
-        inicio: '21:30'
-        fim: '22:30'
+        start: 9:00 PM
+        end: 10:00 PM
+        inicio: '21:00'
+        fim: '22:00'
         tipo: disciplina5
 ---
