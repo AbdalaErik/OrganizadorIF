@@ -48,25 +48,25 @@ schedule:
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: disciplina2
+        tipo: disciplina3
       - name: Arqui. e Org. de Computadores
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
-        tipo: disciplina2
+        tipo: disciplina3
       - name: Linguagens de Programação II
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: disciplina3
+        tipo: disciplina2
       - name: Linguagens de Programação II
         start: 10:00 PM
         end: 11:00 PM
         inicio: '22:00'
         fim: '23:00'
-        tipo: disciplina3
+        tipo: disciplina2
   - name: Quarta
     events:
       - name: Arqui. e Org. de Computadores
@@ -74,7 +74,7 @@ schedule:
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: disciplina2
+        tipo: disciplina3
       - name: Arqui. e Org. de Computadores
         start: 8:00 PM
         end: 9:00 PM
@@ -86,13 +86,13 @@ schedule:
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: disciplina3
+        tipo: disciplina2
       - name: Linguagens de Programação II
         start: 10:00 PM
         end: 11:00 PM
         inicio: '22:00'
         fim: '23:00'
-        tipo: disciplina3
+        tipo: disciplina2
   - name: Quinta
     events:
       - name: Teoria dos Grafos
