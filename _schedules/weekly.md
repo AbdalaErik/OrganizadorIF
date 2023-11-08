@@ -20,6 +20,8 @@ schedule:
         start: 7:00 PM
         end: 11:00 PM
         location: 150 Wheeler
+        inicio: 19:00
+        fim: 23:00
   - name: Terça
   - name: Quarta
     events:
