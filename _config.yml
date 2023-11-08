@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: OrganizadorIF
+title: Organizador do IF
 tagline: O organizador de estudos do IF!
 description: Facilite e otimize seus estudos com o novo organizador do IF!
 author: Erik Abdala
