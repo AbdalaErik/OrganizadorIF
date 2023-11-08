@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: OrganizadorIF
-tagline: Teste
-description: Teste2
-author: Kevin Lin
+tagline: O organizador de estudos do IF!
+description: Facilite e otimize seus estudos com o novo organizador do IF!
+author: Erik Abdala
 baseurl: '/OrganizadorIF' # the subpath of your site, e.g. /blog
 url: 'https://abdalaerik.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
@@ -33,7 +33,7 @@ aux_links:
   SUAP:
     - 'https://suap.ifsuldeminas.edu.br/accounts/login/'
   Portal do IFSULDEMINAS:
-    - 'https://portal.ifsuldeminas.edu.br/extensao/'
+    - 'https://portal.ifsuldeminas.edu.br/'
 footer_content:
 
 # Collections for website data
