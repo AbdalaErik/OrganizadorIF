@@ -80,7 +80,7 @@ schedule:
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
-        tipo: disciplina2
+        tipo: disciplina3
       - name: Linguagens de Programação II
         start: 9:00 PM
         end: 10:00 PM
