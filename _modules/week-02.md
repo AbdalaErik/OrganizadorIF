@@ -13,28 +13,8 @@ title: Atividades
 
 </style>
 
-<script>
-  
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-  
-</script>
-
 10/11
-: **BDI**{: .label .label-purple } <button type="button" class="collapsible">Open Collapsible</button>
-<div class="content">Modelagem de Indústria de Móveis</div>
+: **BDI**{: .label .label-purple } <button type="button">Open Collapsible</button><div class="content">Modelagem de Indústria de Móveis</div>
   : <span class="fs-3">[Prazo: 23:55](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=390313){: .btn }</span>
 
 10/11
@@ -53,3 +33,22 @@ Oct 9
 : [Runtime Analysis](#)
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
 : **HW 2 due**{: .label .label-red }
+
+<script>
+  
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+  
+</script>
