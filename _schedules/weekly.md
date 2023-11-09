@@ -43,13 +43,13 @@ schedule:
         tipo: disciplina1
   - name: Terça
     events:
-      - name: Arqui. e Org. de Computadores
+      - name: Arq. e Org. de Computadores
         start: 7:00 PM
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
         tipo: disciplina3
-      - name: Arqui. e Org. de Computadores
+      - name: Arq. e Org. de Computadores
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
@@ -69,13 +69,13 @@ schedule:
         tipo: disciplina2
   - name: Quarta
     events:
-      - name: Arqui. e Org. de Computadores
+      - name: Arq. e Org. de Computadores
         start: 7:00 PM
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
         tipo: disciplina3
-      - name: Arqui. e Org. de Computadores
+      - name: Arq. e Org. de Computadores
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
