@@ -10,5 +10,5 @@ title: Provas
   : Abstração, Polimorfismo e Interfaces
 
 07/12
-: **TdG**{: .label .label-yellow } 2ª Prova de Teoria dos Grafos
+: **TG**{: .label .label-yellow } 2ª Prova de Teoria dos Grafos
   : Árvores, MST, Busca em Grafos, Dijkstra
