@@ -2,11 +2,11 @@
 title: Atividades
 ---
 
-<details markdown="block">
-<summary>Shopping list (click me!)</summary>
-
 10/11
-: **BDI**{: .label .label-purple } <details markdown="block"><summary>Modelagem de Indústria de Móveis</summary> Elaborar a modelagem referente ao PDF ["Indústria de Móveis"](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390311) no MySQL Workbench (Enviar no formato .mwb ou .sql).</details>
+: **BDI**{: .label .label-purple } <details markdown="block">
+<summary>Modelagem de Indústria de Móveis</summary>
+Elaborar a modelagem referente ao PDF ["Indústria de Móveis"](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390311) no MySQL Workbench (Enviar no formato .mwb ou .sql).
+</details>
   : <span class="fs-3">[Prazo: 23:55](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=390313){: .btn }</span>
 
 10/11
