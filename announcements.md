@@ -5,7 +5,7 @@ description: Página voltada para divulgação de notícias e avisos relacionado
 nav_order: 1
 ---
 
-# Notícias
+<h1 align="center"> <span style='font-weight: bold;'>Notícias</span> </h1>
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
