@@ -3,7 +3,8 @@ title: Atividades
 ---
 
 10/11
-: **BDI**{: .label .label-purple } <details markdown="block">
+: **BDI**{: .label .label-purple }
+<details>
 <summary>Modelagem de Indústria de Móveis</summary>
 Elaborar a modelagem referente ao PDF ["Indústria de Móveis"](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390311) no MySQL Workbench (Enviar no formato .mwb ou .sql).
 </details>
