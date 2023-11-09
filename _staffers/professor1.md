@@ -1,7 +1,7 @@
 ---
 name: Fernanda Maria Ribeiro
 role: Professor
-email: me@example.com
+email: fernanda.ribeiro@muz.ifsuldeminas.edu.br
 photo: avatar.jpg
 ---
 
