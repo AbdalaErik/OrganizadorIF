@@ -8,4 +8,5 @@ seo:
   name: Organizador do IF
 ---
 
-# Olá! Seja bem-vindo(a) à plataforma **Organizador do IF**!
+# <h1 align="center"> <span style='font-weight: bold;'> Olá! </span> </h1>
+## <h2 align="center">Seja bem-vindo(a) à plataforma<span style='font-weight: bold;'> Organizador do IF </span>!</h2>
