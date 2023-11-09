@@ -19,4 +19,5 @@ title: Atividades
 
 28/11
 : **LP2**{: .label .label-blue } [Questionário Final](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398661)
-  : <span class="fs-3">[Prazo: 23:55](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398468){: .btn }</span> <span class="fs-3">[Valor: 1 ponto](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398468){: .btn }</span>
+  : <span class="fs-3">[Prazo: 23:59](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398468){: .btn }</span> <span class="fs-3">[Valor: 1 ponto](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398468){: .btn }</span>
+: > Resolver o questionário baseado nos últimos tópicos vistos em aula (Herança, Polimorfismo, Interfaces, Classes Abstratas e Exceções).
