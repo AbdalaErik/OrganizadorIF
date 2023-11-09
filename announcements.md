@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Announcements
+title: Notícias
 description: A feed containing all of the class announcements.
 nav_order: 1
 ---
