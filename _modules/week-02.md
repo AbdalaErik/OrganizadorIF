@@ -5,7 +5,7 @@ title: Atividades
 10/11
 : **BDI**{: .label .label-purple } [Modelagem de Indústria de Móveis](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=390313)
   : [3.1](#), [2.2](#), [2.3](#)
-: **Prazo: 23:55**{: .label .label-green-300 }
+: **Prazo: 23:55**{: .label .label-grey }
 
 Oct 6
 : **Section**{: .label .label-purple }[Linked Lists](#)
