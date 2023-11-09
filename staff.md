@@ -6,8 +6,8 @@ description: Uma lista de todos os membros relacionados ao curso.
 
 <h1 align="center"> <span style='font-weight: bold;'> Membros </span> </h1>
 
-## Coordenadores
-  
+## Coordenadores  
+
 {% assign instructors = site.staffers | where: 'role', 'Coordenador' %}
 {% for staffer in instructors %}
 {{ staffer }}
@@ -17,8 +17,8 @@ description: Uma lista de todos os membros relacionados ao curso.
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 
-## Professores
-  
+## Professores  
+
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
