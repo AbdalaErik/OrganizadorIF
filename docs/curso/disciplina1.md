@@ -31,17 +31,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   - [Aula 6.0 - Classes Abstratas](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398220)
   - [Aula 7.0 - Interfaces](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398683)
   - [Aula 8.0 - Tratamento Exceções](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398682)
-  - [Códigos em Sala 3 - Herança](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398221)
-  - [Códigos em Sala 4 - Polimorfismo](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398511)
-  - [Códigos em Sala 5 - Exceções](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398684)
+
 - Vídeos:
   - N/D.
+
 - Complementares:
   - N-D.
 
 <h3 style="color: black;"> <span style='font-weight: bold;'>Atividades</span></h3>
 
+- Questionários:
+  - [Primeiro Questionário](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=394750)
+  - [Questionário Final](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398661)
+
 - Lista de Exercícios:
-  - Teste
+  - [Códigos em Sala 3 - Herança](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398221) | [Link para envio](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=395408)
+  - [Códigos em Sala 4 - Polimorfismo](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398511) | [Link para envio](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=395408)
+  - [Códigos em Sala 5 - Exceções](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398684) | [Link para envio](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=395408)
 
 <h3 style="color: black;"> <span style='font-weight: bold;'>Colab</span></h3>
+
+Seção voltada para a colaboração entre os alunos.
+
+Links abertos com resumos, anotações e materiais de revisão.
