@@ -1,9 +1,8 @@
 ---
-name: Really Evil Kevin
-role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+name: Diego Saqui
+role: Professor
+email: diego.saqui@muz.ifsuldeminas.edu.br
+photo: avatar.jpg
 ---
 
-I like teaching Computer Science!
+Teoria dos Grafos
