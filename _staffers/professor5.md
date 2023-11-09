@@ -1,5 +1,5 @@
 ---
-name: Paulo Cesar dos Santos
+name: Paulo César dos Santos
 role: Professor
 email: paulo.santos@muz.ifsuldeminas.edu.br
 photo: avatar.jpg
