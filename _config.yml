@@ -37,8 +37,6 @@ aux_links:
   Portal do IFSULDEMINAS:
     - 'https://portal.ifsuldeminas.edu.br/'
 
-footer_content: "CIÊNCIA DA COMPUTAÇÃO"
-
 # Collections for website data
 collections:
   staffers:
