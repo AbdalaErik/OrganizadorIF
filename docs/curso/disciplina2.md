@@ -2,5 +2,5 @@
 layout: default
 title: Banco de Dados I
 parent: Disciplinas
-nav_order: 3
+nav_order: 2
 ---
