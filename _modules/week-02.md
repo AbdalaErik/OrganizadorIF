@@ -14,7 +14,10 @@ title: Atividades
 </style>
 
 10/11
-: **BDI**{: .label .label-purple } <button type="button">Open Collapsible</button><div class="content">Modelagem de Indústria de Móveis</div>
+: **BDI**{: .label .label-purple } <button type="button">Open Collapsible</button>
+                                    <div class="content">
+                                      Modelagem de Indústria de Móveis
+                                    </div>
   : <span class="fs-3">[Prazo: 23:55](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=390313){: .btn }</span>
 
 10/11
