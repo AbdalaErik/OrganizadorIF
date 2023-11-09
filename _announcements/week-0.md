@@ -1,7 +1,7 @@
 ---
-title: Week 0 Announcement
+title: Welcome!
 week: 0
-date: 2019-04-01
+date: 2023-11-09
 ---
 
 Hello world!
