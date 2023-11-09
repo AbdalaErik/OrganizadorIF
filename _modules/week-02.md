@@ -15,12 +15,8 @@ title: Atividades
 21/11
 : **ESI**{: .label .label-green } [Artigo Científico - Etapa 3](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398468)
   : <span class="fs-3">[Prazo: 23:55](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398468){: .btn }</span>
+: > Revisar a tabela com a lista final de artigos pesquisados e elaborar a segunda e última versão do texto do artigo científico de acordo com o [modelo de artigo da JOSIF](https://docs.google.com/document/d/1UjunippImVRLH_ZhQMLynYDbnGJ-ujnn/edit).
 
 28/11
 : **LP2**{: .label .label-blue } [Questionário Final](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398661)
   : <span class="fs-3">[Prazo: 23:55](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398468){: .btn }</span> <span class="fs-3">[Valor: 1 ponto](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398468){: .btn }</span>
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
