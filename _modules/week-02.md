@@ -1,25 +1,8 @@
 ---
 title: Atividades
 ---
-<html>
 
 <style>
-
-.collapsible {
-  background-color: #777;
-  color: white;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-}
-
-.active, .collapsible:hover {
-  background-color: #555;
-}
 
 .content {
   padding: 0 18px;
@@ -31,6 +14,7 @@ title: Atividades
 </style>
 
 <script>
+  
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
@@ -45,17 +29,13 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+  
 </script>
 
-</html>
-
 10/11
-: **BDI**{: .label .label-purple } [Modelagem de Indústria de Móveis](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=390313)
+: **BDI**{: .label .label-purple } <button type="button" class="collapsible">Open Collapsible</button>
+<div class="content">Modelagem de Indústria de Móveis</div>
   : <span class="fs-3">[Prazo: 23:55](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=390313){: .btn }</span>
-: <button type="button" class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
 
 10/11
 : **BDI**{: .label .label-purple } [Lista de Exercícios - Operadores](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=398325)
