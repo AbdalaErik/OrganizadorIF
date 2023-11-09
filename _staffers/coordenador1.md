@@ -1,6 +1,6 @@
 ---
 name: Rodrigo César Evangelista
-role: Coordenador
+role: Instructor
 email: me@example.com
 photo: avatar.jpg
 ---
