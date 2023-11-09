@@ -1,8 +1,8 @@
 ---
-title: Welcome!
+title: Bem-Vindo(a)!
 week: 0
 date: 2023-11-09
 ---
 
-Hello world!
+Olá, Mundo!
 {: .fs-5 }
