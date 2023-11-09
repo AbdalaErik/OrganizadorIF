@@ -1,23 +1,14 @@
 ---
 title: Provas
 ---
+01/12
+: **BDI**{: .label .label-purple }[2ª Prova de Banco de Dados I]
+  : [MySQL, Engenharia Reversa e Operadores]
 
 05/12
-: [Linguagens de Programação 2](#)
-  : [- Abstração, Polimorfismo e Interfaces](#)
+: **LP2**{: .label .label-blue }[2ª Prova de Linguagens de Programação 2]
+  : [Abstração, Polimorfismo e Interfaces]
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+07/12
+: **TdG**{: .label .label-yellow }[2ª Prova de Teoria dos Grafos]
+  : [Árvores, MST, Busca em Grafos, Dijkstra]
