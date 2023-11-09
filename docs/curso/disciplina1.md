@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Linguagens de Programação II (LP2)
+title: Linguagens de Programação II
 parent: Disciplinas
 nav_order: 1
 ---
