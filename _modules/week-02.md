@@ -4,11 +4,11 @@ title: Atividades
 
 10/11
 : **BDI**{: .label .label-purple } [Modelagem de Indústria de Móveis](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=390313)
-  : [Prazo: 23:55](https://just-the-docs.com){: .btn }
+  : <span class="fs-3">[Prazo: 23:55](https://just-the-docs.com){: .btn }</span>
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+10/11
+: **BDI**{: .label .label-purple } [Lista de Exercícios - Operadores](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=398325)
+  : <span class="fs-3">[Prazo: 23:55](https://just-the-docs.com){: .btn }</span>
 
 Oct 7
 : [Resizing Arrays](#)
