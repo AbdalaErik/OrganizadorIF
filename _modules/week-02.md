@@ -1,10 +1,11 @@
 ---
-title: Basic Data Structures
+title: Atividades
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
+10/11
+: **BDI**{: .label .label-purple } [Modelagem de Indústria de Móveis](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=390313)
   : [3.1](#), [2.2](#), [2.3](#)
+: **Prazo: 23:55**{: .label .label-darkgreen }
 
 Oct 6
 : **Section**{: .label .label-purple }[Linked Lists](#)
