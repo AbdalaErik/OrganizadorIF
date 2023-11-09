@@ -1,6 +1,7 @@
 ---
 title: Atividades
 ---
+<html>
 
 <style>
 
@@ -45,6 +46,8 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
+
+</html>
 
 10/11
 : **BDI**{: .label .label-purple } [Modelagem de Indústria de Móveis](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=390313)
